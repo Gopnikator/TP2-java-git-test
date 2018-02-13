@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ReelContraint
+comment1.params=min\ max\ val
+comment1.target=ReelContraint(double,\ double,\ double)
+comment1.text=Constructeur\ d'objets\ de\ classe\ ReelContraint
+comment2.params=
+comment2.target=void\ affiche()
+comment2.text=Un\ exemple\ de\ m\u00E9thode\ -\ remplacez\ ce\ commentaire\ par\ le\ v\u00F4tre
+comment3.params=
+comment3.target=void\ saisir()
+comment4.params=
+comment4.target=double\ getMin()
+comment5.params=
+comment5.target=double\ getMax()
+comment6.params=
+comment6.target=double\ getVal()
+comment7.params=newval
+comment7.target=void\ setVal(double)
+numComments=8
